@@ -70,6 +70,7 @@
     "react-json-view": "^1.21.3",
     "react-paginate": "^8.1.3",
     "react-redux": "^8.0.2",
+    "react-split-pane": ^"0.1.92",
     "react-select": "^5.4.0",
     "react-table": "^7.8.0"
   },
